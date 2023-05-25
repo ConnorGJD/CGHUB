@@ -1,0 +1,11 @@
+/* layout */
+  .App-body 
+  {
+    margin: 11vh auto;
+    padding: 20px;
+    width: 1600px;
+
+    background: white;
+    box-shadow: var(--BaseShadows);
+    border-radius: 10px;
+  }
